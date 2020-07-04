@@ -385,6 +385,10 @@ mark,
   margin-bottom: 1rem;
   font-size: 1.25rem; }
 
+.carousel-control-next-icon, .carousel-control-prev-icon {
+  filter: invert(1); }
+  
+
 .blockquote-footer {
   display: block;
   font-size: 80%;
@@ -8178,7 +8182,7 @@ h1, h2, h3, h4, h5,
       top: 0;
       padding-top: 0;
       padding-bottom: 0;
-      padding-left: 15px; } }
+      padding-left: 4px; } }
   .ftco-navbar-light .container {
     width: 1110px;
     margin: 0 auto;
@@ -8918,7 +8922,7 @@ h1, h2, h3, h4, h5,
 
 .project {
   width: 100%;
-  height: 350px;
+  height: 100%;
   margin-bottom: 0;
   position: relative;
   z-index: 0; }
