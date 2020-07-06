@@ -471,10 +471,8 @@ pre {
 
 .container-fluid {
   width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto; }
+  padding-right: 5px;
+  padding-left: 5px; }
 
 .row {
   display: -webkit-box;
@@ -5184,7 +5182,7 @@ a.close.disabled {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  width: 15%;
+  width: 8%;
   color: #fff;
   text-align: center;
   opacity: 0.5;
@@ -7557,7 +7555,7 @@ button.bg-dark:focus {
     padding: 3rem !important; }
   .pt-lg-5,
   .py-lg-5 {
-    padding-top: 3rem !important; }
+    padding-top: 6rem !important; }
   .pr-lg-5,
   .px-lg-5 {
     padding-right: 3rem !important; }
